@@ -1,4 +1,3 @@
-const PIXI = require('pixi.js');
 const Events = require('nom-events');
 
 let canvasElement = null;
